@@ -1,0 +1,16 @@
+C:\Users\gurwi\Downloads\FinalProject1811213\FinalProject1811213\bin\Debug\FinalProject1811213.exe.config
+C:\Users\gurwi\Downloads\FinalProject1811213\FinalProject1811213\bin\Debug\FinalProject1811213.exe
+C:\Users\gurwi\Downloads\FinalProject1811213\FinalProject1811213\bin\Debug\FinalProject1811213.pdb
+C:\Users\gurwi\Downloads\FinalProject1811213\FinalProject1811213\obj\Debug\FinalProject1811213.csprojAssemblyReference.cache
+C:\Users\gurwi\Downloads\FinalProject1811213\FinalProject1811213\obj\Debug\FinalProject1811213.Dashboard.resources
+C:\Users\gurwi\Downloads\FinalProject1811213\FinalProject1811213\obj\Debug\FinalProject1811213.Lottomax.resources
+C:\Users\gurwi\Downloads\FinalProject1811213\FinalProject1811213\obj\Debug\FinalProject1811213.Properties.Resources.resources
+C:\Users\gurwi\Downloads\FinalProject1811213\FinalProject1811213\obj\Debug\FinalProject1811213.csproj.GenerateResource.cache
+C:\Users\gurwi\Downloads\FinalProject1811213\FinalProject1811213\obj\Debug\FinalProject1811213.csproj.CoreCompileInputs.cache
+C:\Users\gurwi\Downloads\FinalProject1811213\FinalProject1811213\obj\Debug\FinalProject1811213.exe
+C:\Users\gurwi\Downloads\FinalProject1811213\FinalProject1811213\obj\Debug\FinalProject1811213.pdb
+C:\Users\gurwi\Downloads\FinalProject1811213\FinalProject1811213\obj\Debug\FinalProject1811213.Calculator.resources
+C:\Users\gurwi\Downloads\FinalProject1811213\FinalProject1811213\obj\Debug\FinalProject1811213.Lotto649.resources
+C:\Users\gurwi\Downloads\FinalProject1811213\FinalProject1811213\obj\Debug\FinalProject1811213.MoneyExchange.resources
+C:\Users\gurwi\Downloads\FinalProject1811213\FinalProject1811213\obj\Debug\FinalProject1811213.TemperatureConversion.resources
+C:\Users\gurwi\Downloads\FinalProject1811213\FinalProject1811213\obj\Debug\FinalProject1811213.IP4_Validator.resources
